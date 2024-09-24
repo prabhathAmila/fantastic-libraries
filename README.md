@@ -1,1 +1,42 @@
+# Web Development Libraries
+
 I wanted to introduce you to some fantastic libraries that we can leverage in our future web development projects to enhance user experience and engagement. You can also use these libraries for your web designs.
+
+## Libraries
+
+### [Animate.css](https://animate.style/)
+Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
+
+### [hamburgers](https://jonsuh.com/hamburgers/)
+CSS-animated hamburgers.
+
+### [AOS - Animate on Scroll](https://michalsnik.github.io/aos/)
+AOS - Animate On Scroll library using CSS3.
+
+### [Swiper.js](https://swiperjs.com/get-started)
+A modern touch slider that is great for mobile and desktop.  
+**Example:** [My Swiper.js Example](http://test.prabhath.wpdev.ebeyondsonline.com/sites/swiperjs/index.html)
+
+### [GSAP](https://gsap.com/resources/get-started/)
+A powerful JavaScript library for animating HTML elements.
+
+### [Pageable](https://mobius1.github.io/Pageable/)
+Simple pagination library.
+
+### [flatpickr](https://flatpickr.js.org/)
+A lightweight and powerful datetime picker.
+
+### Free Interactive Maps/Charts
+- [amCharts](https://www.amcharts.com/) - Interactive charts and maps for your web applications.
+- [Chart.js](https://www.chartjs.org/) - Another option for charts.
+
+### [Parallax Engine](https://matthew.wagerfield.com/parallax/)
+A library for creating beautiful parallax effects on your web pages.  
+- [Parallax.js](https://pixelcog.github.io/parallax.js/) - A lightweight JavaScript library for parallax scrolling.
+
+### [Accessibility Widget](https://userway.org/widget/)
+Improve the accessibility of your website.
+
+---
+
+Feel free to explore these libraries and integrate them into your projects!
