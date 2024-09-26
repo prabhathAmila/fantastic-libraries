@@ -20,6 +20,9 @@ A modern touch slider that is great for mobile and desktop.
 ### [GSAP](https://gsap.com/resources/get-started/)
 A powerful JavaScript library for animating HTML elements.
 
+### Free SVG Animation lib
+vivus [https://maxwellito.github.io/vivus/]
+
 ### [Pageable](https://mobius1.github.io/Pageable/)
 Simple pagination library.
 
